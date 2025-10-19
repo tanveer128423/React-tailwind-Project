@@ -1,16 +1,36 @@
-# React + Vite
+# React + Tailwind Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# ⌚ Rolex Watches Landing Page
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A premium landing page inspired by **Rolex**, designed to reflect timeless luxury and craftsmanship. Built using **HTML** and **Tailwind CSS**, this project highlights elegant design, product showcasing, and smooth user experience.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🖋️ Overview
+This landing page captures the essence of **Rolex** — showcasing featured timepieces, customer trust, and the brand’s legacy of precision.  
+It includes visually rich sections and a refined layout built for desktop viewing.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Sections Included
+- **Hero Section:** Eye-catching introduction with premium tagline and visuals.  
+- **Featured Collection:** Showcasing iconic Rolex watches symbolizing precision and heritage.  
+- **Customer Reviews:** Authentic-style testimonials with ratings and genders.  
+- **Footer:** Elegant layout with Explore Rolex links, support info, and social icons.
+
+---
+
+## 🎨 Tech Stack
+- **HTML5**  
+- **Tailwind CSS**  
+- **SVG Assets** (for watch icons and visuals)
+
+---
+
+## ⚠️ Responsiveness
+> This project is currently **not responsive** and best viewed on **desktop screens**.  
+Responsive design will be added in future iterations.
+
+---
+
