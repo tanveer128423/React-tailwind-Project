@@ -11,7 +11,7 @@ const Hero = () => {
 
       <div className="ml-15 pb-20">
         <div className="ml-15 mt-10 font-judson mr-190 pt-20">
-          <h1 className="text-6xl tracking-wide leading-[1]">
+          <h1 className="text-6xl tracking-wide leading-[1.1]">
             Crafted for those who value
             <span className="text-green-900 "> Time </span>
             and
