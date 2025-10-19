@@ -5,6 +5,8 @@
 
 A premium landing page inspired by **Rolex**, designed to reflect timeless luxury and craftsmanship. Built using **HTML** and **Tailwind CSS**, this project highlights elegant design, product showcasing, and smooth user experience.
 
+# You can check it out here : https://rolexlandingpagee.netlify.app/
+
 ---
 
 ## 🖋️ Overview
