@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "montserrat";
+  src: url("./assets/fonts/Montserrat-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "alan-sans";
+  src: url("./assets/fonts/AlanSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "judson";
+  src: url("./assets/fonts/Judson-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Extend Tailwind’s fontFamily theme */
+@theme {
+  --font-sans: "montserrat", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "alan-sans", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "judson", ui-sans-serif, system-ui, sans-serif;
+}
