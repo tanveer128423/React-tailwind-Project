@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <div>
       <div>
-      <div className="absolute mt-10 ml-2">
+      <div className="absolute mt-10">
         <img
           src={logo}
           alt="logo"
@@ -30,13 +30,13 @@ const Footer = () => {
 
 
       </div>
-      <div className="w-389.5 h-110 bg-green-900 ml-1">
-        <h1 className="absolute text-5xl text-underline text-white pl-5 mt-10 ml-40">
+      <div className="w-350 h-110 bg-green-900 ml-1">
+        <h1 className="absolute text-4xl text-underline text-white pl-5 mt-10 ml-38">
           ROLEX
         </h1>
         <div className="absolute ">
-        <h1 className="text-2xl text-white ml-140 mt-10">Support</h1>
-        <ol className="text-xl text-white ml-140 mt-10">
+        <h1 className="text-2xl text-white ml-125 mt-10">Support</h1>
+        <ol className="text-xl text-white ml-125 mt-10">
           <li>FAQs</li>
           <li>Warranty & Services</li>
           <li>Find a Store</li>
@@ -45,8 +45,8 @@ const Footer = () => {
         </ol>
       </div>
         <div className="absolute ml-90">
-        <h1 className="text-2xl text-white ml-140 mt-10">Navigate</h1>
-        <ol className="text-xl text-white ml-140 mt-10">
+        <h1 className="text-2xl text-white ml-125 mt-10">Navigate</h1>
+        <ol className="text-xl text-white ml-125 mt-10">
           <li>Home</li>
           <li>Featured Collection</li>
           <li>Newly Crafted</li>
@@ -55,14 +55,14 @@ const Footer = () => {
         </ol>
       </div>
         <div className="absolute ml-170">
-        <h1 className="text-2xl text-white ml-140 mt-10">Get In Touch</h1>
-        <ol className="text-xl text-white ml-140 mt-10">
+        <h1 className="text-2xl text-white ml-125 mt-10">Get In Touch</h1>
+        <ol className="text-xl text-white ml-125 mt-10">
           <li>customer@rolex.com</li>
           <li>+93233244321</li>
         
         </ol>
       </div>
-      <div className="text-white text-xl ml-170 pt-100">
+      <div className="text-white text-xl ml-150 pt-100">
         © Rolex. All Rights Reserved.
       </div>
       </div>

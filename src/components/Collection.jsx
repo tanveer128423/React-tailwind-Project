@@ -5,22 +5,22 @@ import watch6 from "../assets/images/watch6.png";
 
 const Collection = () => {
   return (
-    <div className="pt-20 mb-300">
+    <div className="pt-20 mb-250">
   
-      <div className=" text-6xl mb-10 mr-20 ml-30">
+      <div className=" text-5xl mb-10 mr-20 ml-20">
         <h1>
           Featured <span className="text-green-900">Collection</span>
         </h1>
       </div>
-      <div className="w-375 h-50 mt-90 bg-green-900 absolute">
+      <div className="w-333 h-30 mt-90 bg-green-900 absolute">
 
       </div>
       {/* ----------------------------------------------------Outside Circle -------------------------------------------------------------- */}
       <div className=" mt-30">
-        <div className="absolute w-200 h-200 bg-green-900 rounded-full ml-87 ">
-          <div className="absolute w-150 h-150 bg-white rounded-full ml-25 mt-25 ">
-            <h1 className="text-7xl text-green-900 mt-50 ml-38">Craft Your</h1>
-            <h1 className="text-7xl text-green-900 ml-50 ">Choice</h1>
+        <div className="absolute w-180 h-180 bg-green-900 rounded-full ml-77  ">
+          <div className="absolute w-130 h-130 bg-white rounded-full ml-25 mt-25 ">
+            <h1 className="text-6xl text-green-900 mt-45 ml-32">Craft Your</h1>
+            <h1 className="text-6xl text-green-900 ml-41 ">Choice</h1>
           </div>
         </div>
       </div>
@@ -29,7 +29,7 @@ const Collection = () => {
       {/* -----------------------------------------------------  Watches ---------------------------------------------------------------------- */}
       <div>
         <div>
-          <div className="absolute w-95 h-60 bg-white border-4 rounded-2xl border-green-900 ml-80 flex">
+          <div className="absolute w-95 h-60 bg-white border-4 rounded-2xl border-green-900 ml-50 flex">
             <img
               src={watch3}
               alt="watch"
@@ -53,7 +53,7 @@ const Collection = () => {
             </p>
           </div>
         </div>
-        <div className="absolute w-95 h-60 bg-white border-4 rounded-2xl border-green-900 ml-200 flex ">
+        <div className="absolute w-95 h-60 bg-white border-4 rounded-2xl border-green-900 ml-188 flex ">
           <img
             src={watch4}
             alt="watch"
@@ -79,7 +79,7 @@ const Collection = () => {
           
         </div>
 
-        <div className="absolute w-95 h-60 bg-white border-4 rounded-2xl border-green-900 ml-80 mt-130 flex">
+        <div className="absolute w-95 h-60 bg-white border-4 rounded-2xl border-green-900 ml-50 mt-110 flex">
           <img
             src={watch5}
             alt="watch"
@@ -104,7 +104,7 @@ const Collection = () => {
             </p>
 
         </div>
-        <div className="absolute w-95 h-60 bg-white border-4 rounded-2xl border-green-900 ml-200 mt-130 flex">
+        <div className="absolute w-95 h-60 bg-white border-4 rounded-2xl border-green-900 ml-188 mt-110 flex">
           <img
             src={watch6}
             alt="watch"
